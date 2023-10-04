@@ -19,6 +19,7 @@ class BIG_BOSS_DOG(commands.Bot):
         self.utilisateur_principal = None
         self.analyse = True
 
+
     def salon(self):
 
         # FR: connexion au serveur
